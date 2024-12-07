@@ -1,0 +1,17 @@
+Não vou explicar nada sobre o básico de banco de dados aqui, levarei em conta que o espectador já sabe sobre.
+
+Recomendo o livro:
+- Sistemas de banco de dados
+~ Livro por Marília Guimarães Pinheiro
+
+Isso de você quiser saber muito mesmo, até mais do que o necessário. (esse livro é gigante e massante, 2 meses de estudo pra terminar ele, no mínimo)
+
+Para uma abordagem natural, necessária e mais rápida, recomendo a playlist de MySQL do CursoemVideo do Guanabara.
+PDO não é difícil e tem playlist no YT tbm.
+
+Ou pelo menos, um livro básico sobre os mesmos:
+- PHP & MySQL: Server-side Web Development
+~ Livro por Jon Duckett
+
+
+
